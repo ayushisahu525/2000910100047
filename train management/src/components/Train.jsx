@@ -1,4 +1,5 @@
 import React from "react";
+import Getlist from "./Getlist";
 
 const MenuCard = ({ setTrain }) => {
   //   console.log(menuData);
